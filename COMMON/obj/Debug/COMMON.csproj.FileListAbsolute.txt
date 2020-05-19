@@ -1,0 +1,5 @@
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\COMMON\bin\Debug\COMMON.dll
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\COMMON\bin\Debug\COMMON.pdb
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\COMMON\obj\Debug\COMMON.dll
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\COMMON\obj\Debug\COMMON.pdb
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\COMMON\obj\Debug\COMMON.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\BRL\bin\Debug\BRL.dll
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\BRL\bin\Debug\BRL.pdb
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\BRL\bin\Debug\COMMON.dll
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\BRL\bin\Debug\DAL.dll
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\BRL\bin\Debug\COMMON.pdb
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\BRL\bin\Debug\DAL.pdb
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\BRL\obj\Debug\BRL.csprojResolveAssemblyReference.cache
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\BRL\obj\Debug\BRL.dll
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\BRL\obj\Debug\BRL.pdb

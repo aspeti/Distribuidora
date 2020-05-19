@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="Distribuidora.Categorias.UserControlCategorias"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Distribuidora.Categorias"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300"
+             
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="{DynamicResource MaterialDesignPaper}"
+             FontFamily="{DynamicResource MaterialDesignFont}">
+    
+    <!--El siguiente Grid es el que forma el menu de categorias-->
+    <Grid>
+        <!--El stack panel es la primera opcion de nuestro menu categorias-->
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Image Source="/Distribuidora;component/img/faforal.png" Width="120" Height="120"/>
+                <!--Este Card es el como nuevo boton-->
+                <materialDesign:Card x:Name="cardAdmiCategorias" Width="320" Height="120" Padding="10" Cursor="Hand" ToolTip="Permite Administrar categorias" Margin="20" MouseLeftButtonUp="cardAdmiCategorias_MouseLeftButtonUp">
+                    <TextBlock Text="Administrar Categorias" Style="{DynamicResource MaterialDesignTitleTextBlock}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </materialDesign:Card>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Image Source="/Distribuidora;component/img/faforal.png" Width="120" Height="120"/>
+                <!--Este Card es el como nuevo boton-->
+                <materialDesign:Card x:Name="cardAdmiCategorias1" Width="320" Height="120" Padding="10" Cursor="Hand" ToolTip="Permite Administrar categorias" Margin="20" MouseLeftButtonUp="cardAdmiCategorias_MouseLeftButtonUp">
+                    <TextBlock Text="Administrar Categorias" Style="{DynamicResource MaterialDesignTitleTextBlock}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </materialDesign:Card>
+            </StackPanel>
+
+
+        </StackPanel>              
+
+    </Grid> 
+</UserControl>

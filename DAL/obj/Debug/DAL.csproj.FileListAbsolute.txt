@@ -1,0 +1,7 @@
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\DAL\bin\Debug\DAL.dll
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\DAL\bin\Debug\DAL.pdb
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\DAL\bin\Debug\COMMON.dll
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\DAL\bin\Debug\COMMON.pdb
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\DAL\obj\Debug\DAL.dll
+D:\3ro sistemas\Progra III\Distribuidora\Distribuidora\DAL\obj\Debug\DAL.pdb
